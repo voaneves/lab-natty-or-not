@@ -79,12 +79,12 @@ Este meticuloso processo de combinação de IA gera não apenas uma figura públ
 
 A **capacidade** do projeto "lab-natty-or-not" para gerar representações visuais realistas é demonstrada através das imagens criadas de Kara Williams Strafford. Com o uso das tecnologias **Dall-E** e **Leonardo.AI**, conseguimos produzir uma série de imagens consistentes que mostram Kara em variados cenários, de praias ao entardecer a espaços urbanos.
 
-- ![Picture 1 - Foto de Kara sorrindo na praia ao entardecer](pic-1.jpg)
-- ![Picture 2 - Kara na praia sentada](pic-2.jpg)
-- ![Picture 3 - Kara sentada em degraus de calça azul](pic-3.jpg)
-- ![Picture 4 - Kara sentada em degraus](pic-4.jpg)
-- ![Picture 5 - Kara sorrindo em um ambiente natural](pic-5.jpg)
-- ![Picture 6 - Kara sorrindo próximo a janelas](pic-6.jpg)
+- ![Picture 1 - Foto de Kara sorrindo na praia ao entardecer](assets/img/pic-1.jpg)
+- ![Picture 2 - Kara na praia sentada](assets/img/pic-2.jpg)
+- ![Picture 3 - Kara sentada em degraus de calça azul](assets/img/pic-3.jpg)
+- ![Picture 4 - Kara sentada em degraus](assets/img/pic-4.jpg)
+- ![Picture 5 - Kara sorrindo em um ambiente natural](assets/img/pic-5.jpg)
+- ![Picture 6 - Kara sorrindo próximo a janelas](assets/img/pic-6.jpg)
 
 As imagens ilustram Kara em diferentes ambientes, mantendo características físicas coerentes, como cabelo castanho claro ondulado e olhos azuis. Esta consistência visual sustenta a identidade digital de Kara como influenciadora.
 
